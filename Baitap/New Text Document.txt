@@ -1,0 +1,9 @@
+How to check a variable’s type?
+Dùng câu l?nh type(), trong ngo?c ch?a bi?n mình mu?n phân lo?i.
+In what cases, you will get SyntaxError from the compiler telling you that some of your variables have invalid names? Can you give 3 different examples of invalid names?
+Trong tru?ng h?p bi?n  dó ch?a kí t? không ph?i là ch?, ch? s? ho?c có ch?a d?u ngo?i tr? “_” và “ .” Tru?ng h?p c? ch? c? s? không kèm ngo?c kép.
+Ex: 1.type(madness3)
+    2.type(weirdaf.)
+    3.type(gô gô)
+
+
